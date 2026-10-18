@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+       xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+       xmlns:views="clr-namespace:MboaPrice.Views"
+       x:Class="MboaPrice.AppShell"
+       Shell.FlyoutBehavior="Disabled"
+       Shell.TabBarBackgroundColor="#FFFFFF"
+       Shell.TabBarForegroundColor="#217A59"
+       Shell.TabBarTitleColor="#217A59"
+       Shell.TabBarUnselectedColor="#7B8981">
+    <TabBar>
+        <ShellContent Title="Accueil" Icon="home.png" ContentTemplate="{DataTemplate views:HomePage}" />
+        <ShellContent Title="Catalogue" Icon="catalog.png" ContentTemplate="{DataTemplate views:CatalogPage}" />
+        <ShellContent Title="Ajouter" Icon="add.png" ContentTemplate="{DataTemplate views:AddReportPage}" />
+        <ShellContent Title="Favoris" Icon="heart.png" ContentTemplate="{DataTemplate views:FavoritesPage}" />
+        <ShellContent Title="Profil" Icon="profile.png" ContentTemplate="{DataTemplate views:ProfilePage}" />
+        
+    </TabBar>
+
+    <ShellContent Route="DetailPage" ContentTemplate="{DataTemplate views:DetailPage}" />
+    <ShellContent Route="LoginPage" ContentTemplate="{DataTemplate views:LoginPage}" />
+    <ShellContent Route="RegisterPage" ContentTemplate="{DataTemplate views:RegisterPage}" />
+</Shell>

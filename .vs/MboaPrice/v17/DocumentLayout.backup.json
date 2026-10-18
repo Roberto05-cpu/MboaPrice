@@ -1,0 +1,286 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ECOLE\\C#\\MboaPrice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33AD6D37-4EC1-4CBE-B01E-56EC9F8F643C}|MboaPrice\\MboaPrice.csproj|d:\\ecole\\c#\\mboaprice\\mboaprice\\mboaprice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{33AD6D37-4EC1-4CBE-B01E-56EC9F8F643C}|MboaPrice\\MboaPrice.csproj|solutionrelative:mboaprice\\mboaprice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ECOLE\\C#\\MboaPrice\\Views\\LoginPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\LoginPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AD6D37-4EC1-4CBE-B01E-56EC9F8F643C}|MboaPrice\\MboaPrice.csproj|d:\\ecole\\c#\\mboaprice\\mboaprice\\views\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AD6D37-4EC1-4CBE-B01E-56EC9F8F643C}|MboaPrice\\MboaPrice.csproj|solutionrelative:mboaprice\\views\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AD6D37-4EC1-4CBE-B01E-56EC9F8F643C}|MboaPrice\\MboaPrice.csproj|d:\\ecole\\c#\\mboaprice\\mboaprice\\views\\registerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AD6D37-4EC1-4CBE-B01E-56EC9F8F643C}|MboaPrice\\MboaPrice.csproj|solutionrelative:mboaprice\\views\\registerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AD6D37-4EC1-4CBE-B01E-56EC9F8F643C}|MboaPrice\\MboaPrice.csproj|d:\\ecole\\c#\\mboaprice\\mboaprice\\views\\profilepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AD6D37-4EC1-4CBE-B01E-56EC9F8F643C}|MboaPrice\\MboaPrice.csproj|solutionrelative:mboaprice\\views\\profilepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AD6D37-4EC1-4CBE-B01E-56EC9F8F643C}|MboaPrice\\MboaPrice.csproj|d:\\ecole\\c#\\mboaprice\\mboaprice\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{33AD6D37-4EC1-4CBE-B01E-56EC9F8F643C}|MboaPrice\\MboaPrice.csproj|solutionrelative:mboaprice\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AD6D37-4EC1-4CBE-B01E-56EC9F8F643C}|MboaPrice\\MboaPrice.csproj|d:\\ecole\\c#\\mboaprice\\mboaprice\\views\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AD6D37-4EC1-4CBE-B01E-56EC9F8F643C}|MboaPrice\\MboaPrice.csproj|solutionrelative:mboaprice\\views\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AD6D37-4EC1-4CBE-B01E-56EC9F8F643C}|MboaPrice\\MboaPrice.csproj|d:\\ecole\\c#\\mboaprice\\mboaprice\\views\\detailpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AD6D37-4EC1-4CBE-B01E-56EC9F8F643C}|MboaPrice\\MboaPrice.csproj|solutionrelative:mboaprice\\views\\detailpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AD6D37-4EC1-4CBE-B01E-56EC9F8F643C}|MboaPrice\\MboaPrice.csproj|d:\\ecole\\c#\\mboaprice\\mboaprice\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{33AD6D37-4EC1-4CBE-B01E-56EC9F8F643C}|MboaPrice\\MboaPrice.csproj|solutionrelative:mboaprice\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AD6D37-4EC1-4CBE-B01E-56EC9F8F643C}|MboaPrice\\MboaPrice.csproj|d:\\ecole\\c#\\mboaprice\\mboaprice\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AD6D37-4EC1-4CBE-B01E-56EC9F8F643C}|MboaPrice\\MboaPrice.csproj|solutionrelative:mboaprice\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AD6D37-4EC1-4CBE-B01E-56EC9F8F643C}|MboaPrice\\MboaPrice.csproj|d:\\ecole\\c#\\mboaprice\\mboaprice\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{33AD6D37-4EC1-4CBE-B01E-56EC9F8F643C}|MboaPrice\\MboaPrice.csproj|solutionrelative:mboaprice\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ECOLE\\C#\\MboaPrice\\MboaPrice\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MboaPrice\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AD6D37-4EC1-4CBE-B01E-56EC9F8F643C}|MboaPrice\\MboaPrice.csproj|d:\\ecole\\c#\\mboaprice\\mboaprice\\models\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AD6D37-4EC1-4CBE-B01E-56EC9F8F643C}|MboaPrice\\MboaPrice.csproj|solutionrelative:mboaprice\\models\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AD6D37-4EC1-4CBE-B01E-56EC9F8F643C}|MboaPrice\\MboaPrice.csproj|d:\\ecole\\c#\\mboaprice\\mboaprice\\views\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AD6D37-4EC1-4CBE-B01E-56EC9F8F643C}|MboaPrice\\MboaPrice.csproj|solutionrelative:mboaprice\\views\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AD6D37-4EC1-4CBE-B01E-56EC9F8F643C}|MboaPrice\\MboaPrice.csproj|d:\\ecole\\c#\\mboaprice\\mboaprice\\views\\favoritespage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AD6D37-4EC1-4CBE-B01E-56EC9F8F643C}|MboaPrice\\MboaPrice.csproj|solutionrelative:mboaprice\\views\\favoritespage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AD6D37-4EC1-4CBE-B01E-56EC9F8F643C}|MboaPrice\\MboaPrice.csproj|d:\\ecole\\c#\\mboaprice\\mboaprice\\views\\catalogpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AD6D37-4EC1-4CBE-B01E-56EC9F8F643C}|MboaPrice\\MboaPrice.csproj|solutionrelative:mboaprice\\views\\catalogpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FavoritesPage.cs",
+              "DocumentMoniker": "D:\\ECOLE\\C#\\MboaPrice\\MboaPrice\\Views\\FavoritesPage.cs",
+              "RelativeDocumentMoniker": "MboaPrice\\Views\\FavoritesPage.cs",
+              "ToolTip": "D:\\ECOLE\\C#\\MboaPrice\\MboaPrice\\Views\\FavoritesPage.cs",
+              "RelativeToolTip": "MboaPrice\\Views\\FavoritesPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T00:20:44.184Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "D:\\ECOLE\\C#\\MboaPrice\\Views\\LoginPage.cs",
+              "RelativeDocumentMoniker": "Views\\LoginPage.cs",
+              "ToolTip": "D:\\ECOLE\\C#\\MboaPrice\\Views\\LoginPage.cs",
+              "RelativeToolTip": "Views\\LoginPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T00:11:24.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProfilePage.cs",
+              "DocumentMoniker": "D:\\ECOLE\\C#\\MboaPrice\\MboaPrice\\Views\\ProfilePage.cs",
+              "RelativeDocumentMoniker": "MboaPrice\\Views\\ProfilePage.cs",
+              "ToolTip": "D:\\ECOLE\\C#\\MboaPrice\\MboaPrice\\Views\\ProfilePage.cs",
+              "RelativeToolTip": "MboaPrice\\Views\\ProfilePage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAB8AwAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T23:49:32.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "D:\\ECOLE\\C#\\MboaPrice\\MboaPrice\\Views\\HomePage.cs",
+              "RelativeDocumentMoniker": "MboaPrice\\Views\\HomePage.cs",
+              "ToolTip": "D:\\ECOLE\\C#\\MboaPrice\\MboaPrice\\Views\\HomePage.cs",
+              "RelativeToolTip": "MboaPrice\\Views\\HomePage.cs",
+              "ViewState": "AgIAADMBAAAAAAAAAACQvTwBAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T23:35:19.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\ECOLE\\C#\\MboaPrice\\MboaPrice\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MboaPrice\\MainPage.xaml",
+              "ToolTip": "D:\\ECOLE\\C#\\MboaPrice\\MboaPrice\\MainPage.xaml",
+              "RelativeToolTip": "MboaPrice\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-17T23:23:48.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\ECOLE\\C#\\MboaPrice\\MboaPrice\\AppShell.xaml",
+              "RelativeDocumentMoniker": "MboaPrice\\AppShell.xaml",
+              "ToolTip": "D:\\ECOLE\\C#\\MboaPrice\\MboaPrice\\AppShell.xaml",
+              "RelativeToolTip": "MboaPrice\\AppShell.xaml",
+              "ViewState": "AgIAAAIAAAAgzczMzMz8vxUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-17T23:23:15.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DetailPage.cs",
+              "DocumentMoniker": "D:\\ECOLE\\C#\\MboaPrice\\MboaPrice\\Views\\DetailPage.cs",
+              "RelativeDocumentMoniker": "MboaPrice\\Views\\DetailPage.cs",
+              "ToolTip": "D:\\ECOLE\\C#\\MboaPrice\\MboaPrice\\Views\\DetailPage.cs",
+              "RelativeToolTip": "MboaPrice\\Views\\DetailPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAwAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T23:21:32.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MboaPrice.csproj",
+              "DocumentMoniker": "D:\\ECOLE\\C#\\MboaPrice\\MboaPrice\\MboaPrice.csproj",
+              "RelativeDocumentMoniker": "MboaPrice\\MboaPrice.csproj",
+              "ToolTip": "D:\\ECOLE\\C#\\MboaPrice\\MboaPrice\\MboaPrice.csproj",
+              "RelativeToolTip": "MboaPrice\\MboaPrice.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-17T00:04:31.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterPage.cs",
+              "DocumentMoniker": "D:\\ECOLE\\C#\\MboaPrice\\MboaPrice\\Views\\RegisterPage.cs",
+              "RelativeDocumentMoniker": "MboaPrice\\Views\\RegisterPage.cs",
+              "ToolTip": "D:\\ECOLE\\C#\\MboaPrice\\MboaPrice\\Views\\RegisterPage.cs",
+              "RelativeToolTip": "MboaPrice\\Views\\RegisterPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAADnBQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T00:00:58.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "D:\\ECOLE\\C#\\MboaPrice\\MboaPrice\\Views\\LoginPage.cs",
+              "RelativeDocumentMoniker": "MboaPrice\\Views\\LoginPage.cs",
+              "ToolTip": "D:\\ECOLE\\C#\\MboaPrice\\MboaPrice\\Views\\LoginPage.cs",
+              "RelativeToolTip": "MboaPrice\\Views\\LoginPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T23:20:51.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Ui.cs",
+              "DocumentMoniker": "D:\\ECOLE\\C#\\MboaPrice\\MboaPrice\\Views\\Ui.cs",
+              "RelativeDocumentMoniker": "MboaPrice\\Views\\Ui.cs",
+              "ToolTip": "D:\\ECOLE\\C#\\MboaPrice\\MboaPrice\\Views\\Ui.cs",
+              "RelativeToolTip": "MboaPrice\\Views\\Ui.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T00:21:25.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CatalogPage.cs",
+              "DocumentMoniker": "D:\\ECOLE\\C#\\MboaPrice\\MboaPrice\\Views\\CatalogPage.cs",
+              "RelativeDocumentMoniker": "MboaPrice\\Views\\CatalogPage.cs",
+              "ToolTip": "D:\\ECOLE\\C#\\MboaPrice\\MboaPrice\\Views\\CatalogPage.cs",
+              "RelativeToolTip": "MboaPrice\\Views\\CatalogPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T00:20:08.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FoodItem.cs",
+              "DocumentMoniker": "D:\\ECOLE\\C#\\MboaPrice\\MboaPrice\\Models\\FoodItem.cs",
+              "RelativeDocumentMoniker": "MboaPrice\\Models\\FoodItem.cs",
+              "ToolTip": "D:\\ECOLE\\C#\\MboaPrice\\MboaPrice\\Models\\FoodItem.cs",
+              "RelativeToolTip": "MboaPrice\\Models\\FoodItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T00:27:32.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\ECOLE\\C#\\MboaPrice\\MboaPrice\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MboaPrice\\App.xaml.cs",
+              "ToolTip": "D:\\ECOLE\\C#\\MboaPrice\\MboaPrice\\App.xaml.cs",
+              "RelativeToolTip": "MboaPrice\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T00:08:41.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\ECOLE\\C#\\MboaPrice\\MboaPrice\\App.xaml",
+              "RelativeDocumentMoniker": "MboaPrice\\App.xaml",
+              "ToolTip": "D:\\ECOLE\\C#\\MboaPrice\\MboaPrice\\App.xaml",
+              "RelativeToolTip": "MboaPrice\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-16T23:55:22.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "D:\\ECOLE\\C#\\MboaPrice\\MboaPrice\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "MboaPrice\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "D:\\ECOLE\\C#\\MboaPrice\\MboaPrice\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "MboaPrice\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAArwEwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T00:39:02.082Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
